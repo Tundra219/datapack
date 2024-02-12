@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure":"subterrestrial:ocean_cabin",
+            "weight": 0
+        }
+    ],
+    "placement": {
+        "salt": 0,
+        "spacing": 0,
+        "seperation": 0,
+        "type": "random_spread"
+    }
+}
